@@ -1,4 +1,9 @@
-## Hi there 👋
+[WPI Bike Rental App](https://github.com/WPI-Gompei-Gears/GompeiGears-Python "CS 3733 Final: WPI Bike Rental App")
+[Bike Rental App: Redone for use by WPI and Hardware Compadability](https://github.com/WPI-Gompei-Gears/Gompei-Gears-Native "WPI: Bike Rental App for use by WPI")
+[Positivity-focused Message Board](https://github.com/WPI-CS3733-2025B/smileapp-Vinny-Longbow "CS 3733 Project2: Smile App")
+[Student Class Signup](https://github.com/WPI-CS3733-2025B/studentapp-Vinny-Longbow "CS 3733 Project1: Student App")
+
+[Resteraunt Search Application](https://github.com/WPI-CS3431-Dterm/projectphase2-besterteam "CS 3431 Final: Resteraunt Search")
 
 <!--
 **Vinny-Longbow/Vinny-Longbow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
