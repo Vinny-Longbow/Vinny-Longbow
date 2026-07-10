@@ -1,5 +1,5 @@
-# Vincent
-Welcome, I am a junior attending Worcester Polytechnic Institute (WPI). WPI is a project-based college whose CS department believes in hands on learning. During my time at this school, I have completed several projects, but due to the classroom format, most repositories were originally created by another team member or within an organisation. Rather than fork a bunch of copies of my projects onto my page, I have organised the information below and hope it helps people find what they are looking for.
+# Welcome
+I am a junior attending Worcester Polytechnic Institute (WPI). WPI is a project-based college whose CS department believes in hands on learning. During my time at this school, I have completed several projects, but due to the classroom format, most repositories were originally created by another team member or within an organisation. Rather than fork a bunch of copies of my projects onto my page, I have organised the information below and hope it helps people find what they are looking for.
 
 <br>
 
