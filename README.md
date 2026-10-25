@@ -21,7 +21,7 @@ Our research can be found [here](https://digital.wpi.edu/concern/student_works/x
 
 ## Website Development
 ### [WPI Bike Rental App](https://github.com/WPI-Gompei-Gears/GompeiGears-Python "CS 3733 Final: WPI Bike Rental App") <br>
-To save WPI over $10,000 spent on the Bloom bike share app and to improve the bike rental experience for users who do not wish to provide their credit card details or click through screens not designed for free rental systems, our agile software development team decided to program a custom bike rental website. It is designed with mobile compadability in mind, allowing users to:
+To save WPI over $10,000 spent on the Bloom bike share app and to improve the bike rental experience for users who do not wish to provide their credit card details or click through screens not designed for free rental systems, our agile software development team decided to program a custom bike rental website. The website and app are designed with computer and mobile compadability in mind, allowing users to:
 - sign in with their WPI SSO
 - view the number of available bikes at each pickup station
 - rent bikes
@@ -42,19 +42,11 @@ The app also had a separate set of admin accounts which can:
 - edit station locations
 - ban renter accounts <br>
 
-This project was approved as our Software Development class final. As a result of grading and time constraints, we had to use Python Flask which ended up incompadable with the physical locks. I am currently helping rebuild the admin functionality with React Native so WPI can adopt the app. The new version will offer both a website and app version.
+This project was approved as our Software Development class final. As a result of grading and time constraints, we had to use Python Flask which ended up incompatible with the physical locks. 
 
 > Agile software decelopment team of 4, 4 weeks
 
 > Python, Python Flask, HTML, CSS, Bootstrap, JavaScript, SQLAlchemy
-
-<br>
-
-### [Bike Rental App: Redone for use by WPI and Hardware Compadability](https://github.com/WPI-Gompei-Gears/Gompei-Gears-Native "WPI: Bike Rental App for use by WPI") <br>
-
-Currently in Development
-
-> React.JS, React Native, Expo, PostgreSQL
 
 <br>
 
