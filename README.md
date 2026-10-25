@@ -3,22 +3,6 @@ Welcome, I am a junior attending Worcester Polytechnic Institute (WPI). WPI is a
 
 <br>
 
-## Video Games
-### [Lord of the Rings: The Board Game, Digital Recreation](https://github.com/UrsaMajor24/Dodo_Board_Game_Project-Lord_of_the_Rings_the_Board_Game "Internship: Lord of the Rings: The Board Game") (IQP) <br>
-
-Continuing the Dodo Board Game Project, an effort to document copies of and preserve the games in a recently donated collection of board games to WPI, we worked to recreate Lord of the Rings: The Board Game digitally so WPI students could access it for classwork and entertainment without damaging the original copy. This research project involved:
-- Scanning, editing, and recreating 2D and 3D game assets
-- Programming the game
-- Documenting our research <br>
-
-Our research can be found [here](https://digital.wpi.edu/concern/student_works/xp68km451?locale=en "Dodo Board Game 2025/2026").
-
-> Team of 3, 3 months
-
-> Godot, GDScript, Maya, Blender, Photoshop
-
-<br>
-
 ## Website Development
 ### [WPI Bike Rental App](https://github.com/WPI-Gompei-Gears/GompeiGears-Python "CS 3733 Final: WPI Bike Rental App") <br>
 To save WPI over $10,000 spent on the Bloom bike share app and to improve the bike rental experience for users who do not wish to provide their credit card details or click through screens not designed for free rental systems, our agile software development team decided to program a custom bike rental website. The website and app are designed with computer and mobile compadability in mind, allowing users to:
@@ -76,6 +60,22 @@ A website allowing users to:
 > Individual, 1 week
 
 > Python, Python Flask, HTML, CSS, JavaScript, SQLAlchemy
+
+<br>
+
+## Video Games
+### [Lord of the Rings: The Board Game, Digital Recreation](https://github.com/UrsaMajor24/Dodo_Board_Game_Project-Lord_of_the_Rings_the_Board_Game "Internship: Lord of the Rings: The Board Game") (IQP) <br>
+
+Continuing the Dodo Board Game Project, an effort to document copies of and preserve the games in a recently donated collection of board games to WPI, we worked to recreate Lord of the Rings: The Board Game digitally so WPI students could access it for classwork and entertainment without damaging the original copy. This research project involved:
+- Scanning, editing, and recreating 2D and 3D game assets
+- Programming the game
+- Documenting our research <br>
+
+Our research can be found [here](https://digital.wpi.edu/concern/student_works/xp68km451?locale=en "Dodo Board Game 2025/2026").
+
+> Team of 3, 3 months
+
+> Godot, GDScript, Maya, Blender, Photoshop
 
 <br>
 
